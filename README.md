@@ -2,6 +2,8 @@
 
 Library for Google Apps Script.
 
+![mustache library](https://cdn.statically.io/gh/telegrambotindonesia/mustache/main/mustache.jpg)
+
 [Mustache](http://mustache.github.io/) is a logic-less template syntax. It can be used for HTML, config files, source code - anything. It works by expanding tags in a template using values provided in a hash or object.
 
 We call it "logic-less" because there are no if statements, else clauses, or for loops. Instead there are only tags. Some tags are replaced with a value, some nothing, and others a series of values.
